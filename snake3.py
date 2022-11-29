@@ -339,7 +339,7 @@ def gameloop():
         FPS = 10
         snakelength = 3
         stage=1
-        time_limit = 10     #Changes
+        time_limit = 200     #Changes
         elapsed_time=0
         start_time = time.time()   #Changes
         # stageList=[]
